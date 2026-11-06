@@ -1,0 +1,4 @@
+target_id,dataset,scientific_name,source_subset,n_images,gt_boxes,ood_level,mean_gt_density
+tmawp_malus_domestica,T-MAWP,Malus domestica,,45,1532,L1,72.43846978081598
+tmswp_ulmus_americana,T-MSWP,Ulmus americana Planch,,185,4054,L3,309.0936595469982
+tgsh_wheat_gibbs,T-GSH,Triticum aestivum,wheat_gibbs,348,1884,L5,77.98296417932833

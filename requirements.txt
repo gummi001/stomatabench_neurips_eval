@@ -1,0 +1,8 @@
+# Evaluation and figures (CPU). These are the versions that produced results/ (Python 3.11).
+numpy==2.4.6
+pandas==2.3.1
+scipy==1.17.1
+pycocotools==2.0.10
+matplotlib==3.10.0
+pillow==12.2.0
+huggingface_hub>=0.33

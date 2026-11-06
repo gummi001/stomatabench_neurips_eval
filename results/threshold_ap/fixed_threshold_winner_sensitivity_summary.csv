@@ -1,0 +1,6 @@
+dataset,species,density_r2_changed_025_to_075,density_r2_any_change,count_mae_changed_025_to_075,count_mae_any_change
+OD-Valid,5,5,5,4,5
+T-DCWP,39,29,30,32,33
+T-GSH,9,2,2,0,2
+T-MAWP,17,15,17,14,17
+T-MSWP,18,12,12,11,11

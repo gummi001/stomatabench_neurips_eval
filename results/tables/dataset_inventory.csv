@@ -1,0 +1,7 @@
+dataset,role,shift,images_all,images_scene_primary,redundant_views,annotations_all,annotations_scene_primary,taxon_labels,density_images_all,density_images_scene_primary,ood_levels
+OD-Train,training,training distribution,3154,3139,15,134802,134614,21,3154,3139,L0
+OD-Valid,development and threshold selection,"familiar species, new plants/accessions",138,138,0,8792,8792,5,138,138,L0
+T-MAWP,held-out test,taxonomic,456,456,0,17164,17164,17,456,456,"L1, L2, L3, L4"
+T-DCWP,held-out test,taxonomic and microscope,119,119,0,2858,2858,39,119,119,"L0, L1, L2, L3, L4"
+T-MSWP,held-out test,microscope and annotation,10715,10284,431,514568,503898,18,9910,9479,"L1, L3, L4"
+T-GSH,held-out test,"taxonomic, source, and annotation",8229,6943,1286,319161,288543,9,3062,1930,"L4, L5"

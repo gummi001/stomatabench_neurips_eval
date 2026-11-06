@@ -1,0 +1,89 @@
+dataset,scientific_name
+OD-Valid,Actinidia arguta
+OD-Valid,Malus hupehensis
+OD-Valid,Malus spontanea
+OD-Valid,Malus toringoides
+OD-Valid,Vitis vinifera
+T-MAWP,Actinidia coriacea
+T-MAWP,Malus domestica
+T-MAWP,Prunus Tai-Haku
+T-MAWP,Prunus maritima
+T-MAWP,Prunus sargentii
+T-MAWP,Prunus subhirtella
+T-MAWP,Rosa Radtkopink
+T-MAWP,Rosa centifolia
+T-MAWP,Rosa chuckles
+T-MAWP,Vitis empire
+T-MAWP,Vitis riparia
+T-MAWP,Fagus crenata
+T-MAWP,Amelanchier sanguinea
+T-MAWP,Rhododendron Roseum Superbum
+T-MAWP,Populus tremula
+T-MAWP,Populus tremuloides
+T-MAWP,Populus trichocarpa
+T-DCWP,Quercus rubra
+T-DCWP,Viburnum acerifolium
+T-DCWP,Viburnum dentatum
+T-DCWP,Viburnum nudum
+T-DCWP,Viburnum prunifolium
+T-DCWP,Prunus lasiocarpa
+T-DCWP,Stewartia malacodendron
+T-DCWP,Camellia oleifera
+T-DCWP,Amelanchier stolonifera
+T-DCWP,Aronia arbutifolia
+T-DCWP,Crataegus viridis
+T-DCWP,Cornus alba
+T-DCWP,Kalmia latifolia
+T-DCWP,Sideroxylon lycioides
+T-DCWP,Betula nigra
+T-DCWP,Betula papyrifera
+T-DCWP,Carpinus caroliniana
+T-DCWP,Carya glabra
+T-DCWP,Morella cerifera
+T-DCWP,Lindera benzoin
+T-DCWP,Persea borbonia
+T-DCWP,Sassafras albidum
+T-DCWP,Zanthoxylum americanum
+T-DCWP,Zanthoxylum simulans
+T-DCWP,Acer rubrum
+T-DCWP,Aesculus parviflora
+T-DCWP,Fatsia japonica
+T-DCWP,Ilex cornuta
+T-DCWP,Moringa oleifera
+T-DCWP,Euonymus americanus
+T-DCWP,Stephanotis floribunda
+T-DCWP,Fraxinus pennsylvanica
+T-DCWP,Olea europaea
+T-DCWP,Magnolia virginiana
+T-DCWP,Passiflora coriacea
+T-DCWP,Hibiscus clayi
+T-DCWP,Edgeworthia chrysantha
+T-DCWP,Fothergilla major
+T-DCWP,Itea virginica
+T-MSWP,Quercus michauxii Nutt.
+T-MSWP,Quercus nigra L.
+T-MSWP,Quercus pagoda Raf.
+T-MSWP,Quercus phellos L.
+T-MSWP,Quercus shumardii Buckley
+T-MSWP,Quercus stellata Wangenh.
+T-MSWP,Quercus texana Buckley
+T-MSWP,Acer rubrum L.
+T-MSWP,Carya ovata (Mill.) K. Koch
+T-MSWP,Nyssa sylvatica Marshall
+T-MSWP,Ulmus alata Michx.
+T-MSWP,Ulmus americana Planch
+T-MSWP,Vaccinium stamineum Linneaus
+T-MSWP,Dirca palustris L.
+T-MSWP,Fraxinus caroliniana Miller
+T-MSWP,Ilex opaca Aiton
+T-MSWP,Populus L.
+T-MSWP,Salix L.
+T-GSH,Glycine max
+T-GSH,Phaseolus vulgaris
+T-GSH,Populus balsamifera
+T-GSH,Triticum aestivum
+T-GSH,Elaeis guineensis
+T-GSH,Hordeum vulgare
+T-GSH,Oryza glaberrima
+T-GSH,Triticum spp.
+T-GSH,Zea mays

@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code or the result tables, please cite the paper."
+title: "StomataBench: Measuring Taxonomic Generalization in Stomatal Detection"
+authors:
+  - family-names: Gummi
+    given-names: Sainath Reddy
+  - family-names: Zhang
+    given-names: Hankui K.
+  - family-names: Pack
+    given-names: Chulwoo
+  - family-names: Solanki
+    given-names: Shyam
+  - family-names: Chang
+    given-names: Young
+license: MIT
+repository-code: "https://github.com/gummi001/stomatabench_neurips_eval"
+url: "https://huggingface.co/datasets/Sainath001/StomataBench"
+preferred-citation:
+  type: conference-paper
+  title: "StomataBench: Measuring Taxonomic Generalization in Stomatal Detection"
+  authors:
+    - family-names: Gummi
+      given-names: Sainath Reddy
+    - family-names: Zhang
+      given-names: Hankui K.
+    - family-names: Pack
+      given-names: Chulwoo
+    - family-names: Solanki
+      given-names: Shyam
+    - family-names: Chang
+      given-names: Young
+  collection-title: "Advances in Neural Information Processing Systems"
+  volume: 39
+  year: 2026
